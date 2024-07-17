@@ -1,0 +1,63 @@
+    1  ls l
+    2  cat commands.txt 
+    3  git status
+    4  git add .
+    5  git commit m "my 1st commit"
+    6  git commit -m "my 1st commit"
+    7  git config user.email="sanjayjoshi.hbh@gmail.com"
+    8  git config user.name=SanjayJoshi-SJ
+    9  git config user.name="SanjayJoshi-SJ"
+   10  git config user.name"SanjayJoshi-SJ"
+   11  git commit -m "my 1st commit"
+   12  git config --global user.email "sanjayjoshi.hbh@gmail.com"
+   13  git config --global user.name "SanjayJoshi-SJ"
+   14  git commit -m "my 1st commit"
+   15  git status 
+   16  git push -u origin main
+   17  git commit -m "my 1st commit"
+   18  git push -u origin main
+   19  pwd
+   20  ls
+   21  ls -l
+   22  cd ..
+   23  cd linux
+   24  nano
+   25  nano sri guru
+   26  help
+   27  help nano
+   28  info nana
+   29  info nano
+   30  ls -l
+   31  cd documents
+   32  pwd
+   33  cd Documents
+   34  ls -l
+   35  cd learnlinux
+   36  ls -l
+   37  cd Linux
+   38  ls -l
+   39  pwd
+   40  cd ..
+   41  ls -l
+   42  cd Linux
+   43  ls
+   44  ls -l
+   45  cd ..
+   46  ls -l
+   47  cd ..
+   48  cd repos
+   49  ls -l
+   50  cd linux
+   51  cd Linux
+   52  ls -l
+   53  cat ipl
+   54  cat ipl > wpl
+   55  cat wpl
+   56  cot commands.txt
+   57  cat commands.txt
+   58  vim commands.txt
+   59  sudo apt install vim
+   60  vim commands.txt
+   61  cat commands.txt
+   62  history
+   63  history > practice
