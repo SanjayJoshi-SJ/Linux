@@ -1,3 +1,0 @@
-#learning linux
-ls #to list files and dirs
-ls -a #to list all the commands in the list view

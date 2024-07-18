@@ -1,0 +1,37 @@
+#learning linux
+ls #to list files and dirs
+ls -a #to list all the commands in the list view
+ls -R #to list all the files and directories recurrsively
+
+echo "this is going to print" #echo is going to display the string which is followed by echo
+
+mv src dest #reneaming a file or a directory 
+mv filename direcotyname/ #Moving a file under directory *forward slah / is improtant. it signifies inside directory
+
+
+mkdir -p dirA/dirB/dirC #this is creating directories  recurssively. Here it creates dirA, under dirA it creates dirB and so on
+rm -rf dirname  #delets given direcoty and its subfolder or sub directories | here "r" means recurrssive and "f" signifies forcablly delete
+rm -rf filename #
+
+pwd #print/ present  working directory
+
+cat filename #dispaly the content of file
+
+vim filename #vim is an editor. it opens the given file if exists or else it will create new file with the given name and opens it in Command Mode.
+
+Cal #display the callener for current month.
+
+cal year #dispalys the callender for the given year.
+
+cal monthInfullLegnth year #it displays the entier month of given year provided.
+
+touch filename1 file2 file3 #it creates the multiple empty files 
+
+uname -a #displays the system details, like hardware and OS 
+
+free -h #displays the avilable ram size
+
+df #displys the used and avilable memory 
+df -h 
+
+
