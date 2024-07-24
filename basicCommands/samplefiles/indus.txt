@@ -1,0 +1,3 @@
+summary is that cat will
+cat will provide 
+platform to write multile lines

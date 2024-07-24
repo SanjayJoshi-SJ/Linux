@@ -35,3 +35,5 @@ df #displys the used and avilable memory
 df -h 
 
 
+appending file using >> double arrow mark
+cat > filename #creates the file with multiple lins
