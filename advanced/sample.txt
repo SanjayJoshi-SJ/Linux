@@ -1,0 +1,10 @@
+node 8, node 1 power supply was failed
+node 1 left power which was in node cage 0 was failed 
+from the cage dumps we found that there was temprature issue
+sri guru charana raja 
+bhuddi heena tanu janike 
+sumirav pavana kumara
+bala buddi dehu
+contat :99999999
+abc@srilak.com
+
